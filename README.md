@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Aravind
 
 💻 Senior Full-Stack Engineer | Python, Node.js, React, TypeScript, FastAPI, AWS | LLM & RAG
+
 🚀 Exploring AI and open-source
 
 ⭐ Feel free to explore my repos!
